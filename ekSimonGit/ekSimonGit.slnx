@@ -1,3 +1,6 @@
 <Solution>
+  <Project Path="consoleABC/consoleABC.csproj" Id="18847dd1-113c-44ff-85c6-7fd0bf6db832" />
   <Project Path="ekSimonGit/ekSimonGit.csproj" />
+  <Project Path="LibraryABC/LibraryABC.csproj" Id="0884d634-e24d-4da6-b35f-99db5b47eaa4" />
+  <Project Path="MStestABC/MStestABC.csproj" Id="911e8a9b-3a6e-43ad-af7d-5d521d947a85" />
 </Solution>
